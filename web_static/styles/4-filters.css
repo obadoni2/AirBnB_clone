@@ -12,9 +12,10 @@
 }
 
 /* Search button style */
- button{
+  .filters button{
     background:#ff5a5f;
     border-radius:4px;
+    border:none;
     color:#ffffff;
     float:right;
     height:48px;
